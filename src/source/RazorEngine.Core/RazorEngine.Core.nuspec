@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$version$</id>
+    <id>Martjack.RazorEngine</id>
     <version>$version$</version>
     <title>RazorEngine</title>
     <authors>CJ</authors>
